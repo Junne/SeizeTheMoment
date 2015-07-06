@@ -6,4 +6,9 @@ Daily Plan:
 * 2 open source about animations.  
 * 3 blogs.  
 
+# Resource   
+* [How We Built Tinder-Like Koloda Animation in Swift](https://yalantis.com/blog/how-we-built-tinder-like-koloda-in-swift/)   &emsp;&emsp;[Github](https://github.com/Yalantis/Koloda)  
+* [iOS动効-利用POP动画实现卡片切换动画](http://www.jianshu.com/p/c31b8d24c1c8) &emsp;&emsp;[Github](https://github.com/Neojoke/cardsAnimation)    
+* [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose)  
+* [TinderSimpleSwipeCards](https://github.com/cwRichardKim/TinderSimpleSwipeCards)  
 
